@@ -1,0 +1,4 @@
+header{background-color: #085a78;}
+header a{color:#FFF;}
+.navbar-header a:hover{color:#FFF;}
+.nav>li>a:hover, .nav>li>a:focus{background:#008CBA;color:#FFF;}
